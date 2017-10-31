@@ -1,0 +1,19 @@
+Dans   le   cadre   du   cours   de   l’intelligence
+artificielle   et système multi­agent, un travail nous a été
+demandé de pouvoir concevoir et implémenter une simulation de
+l'influence   de   la   pluie   sur   l'inondation   dans   la   ville
+d’Hanoï, sur le plate­forme GAMA 1.6.1.
+
+Ce TP repose sur la première partie du cours qui est
+le système Multi­Agent, ce dernier nous permettra de mettre
+en place un système   de simulation de l’inondation à partir
+de   la   pluie,   pour   le   cas   de   la   ville   d’Hanoï.   Dans   cette
+première   partie,   nous   avons   étudiés   comment   faire   de   la
+simulation entre plusieurs agents qui communiquent entre eux,
+grâce à l’outil Gama. Nous aurons à faire interagir plusieurs
+agents   dans   ce   présent   travail   comme,   le   nuage,   la   pluie,
+l’eau   et   l’inondation.   Tout   ces   agents   misent   en   relation,
+doivent   pouvoir   réaliser   notre   travail   qui   est   celui   de
+simuler une inondation dans la ville d’Hanoï.
+
+
